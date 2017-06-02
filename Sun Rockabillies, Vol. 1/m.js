@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Great Balls of Fire.mp3";		
+f[2]	= "02 Ooby Dooby.mp3";		
+f[3]	= "03 Raunchy.mp3";		
+f[4]	= "04 Good Rockin' Boogie.mp3";		
+f[5]	= "05 Rock & Roll Ruby.mp3";		
+f[6]	= "06 Flatfoot Sam.mp3";		
+f[7]	= "07 Get Rhythm.mp3";		
+f[8]	= "08 Honey Don't.mp3";		
+f[9]	= "09 Lonely Weekends.mp3";		
+f[10]	= "10 Mona Lisa.mp3";		
+f[11]	= "11 Red Hot.mp3";		
+f[12]	= "12 Rockin' Bandit.mp3";		
